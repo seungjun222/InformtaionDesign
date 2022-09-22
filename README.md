@@ -1,6 +1,6 @@
 # D3.js Project in Information Design major class
 
-2022.05 ~ 06 (참여인원 : 5명)
+2021.05 ~ 06 (참여인원 : 5명)
 
 ## 사용 기술 스택
 
